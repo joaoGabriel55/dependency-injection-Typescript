@@ -1,7 +1,7 @@
 import { expect } from 'chai';
 
-import business, { Post, PostRepository } from '../business'
-import framework from '../framework'
+import business, { Post, PostRepository } from '../src/business'
+import framework from '../src/framework'
 
 /**
  * # Dependency injection #
